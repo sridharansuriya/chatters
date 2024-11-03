@@ -1,0 +1,2 @@
+signal handling for ctrl-c, ctrl-z etc.
+unit tests??? Although, I don't quite exactly know how I will test tcp stream
